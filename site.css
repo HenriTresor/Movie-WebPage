@@ -87,3 +87,9 @@ body{
     outline: none;
     color: white;
 }
+
+@media(max-width:768px){
+  .topnav{
+    flex-direction: column;
+  }
+}
